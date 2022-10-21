@@ -9,7 +9,8 @@
       "position": [
         2020,
         160
-      ]
+      ],
+      "id": "429ab6e9-3509-48a0-aa32-3477c8f61f81"
     },
     {
       "parameters": {
@@ -27,7 +28,8 @@
       "position": [
         4780,
         400
-      ]
+      ],
+      "id": "c10b6539-1f82-4fe4-9236-549a5f635f4a"
     },
     {
       "parameters": {
@@ -40,7 +42,8 @@
       "position": [
         5200,
         300
-      ]
+      ],
+      "id": "8cf013e0-b1aa-4caa-bb6a-f161e277c30e"
     },
     {
       "parameters": {
@@ -53,7 +56,8 @@
       "position": [
         5200,
         520
-      ]
+      ],
+      "id": "7b22118a-6448-41cb-9923-c788c40464b9"
     },
     {
       "parameters": {
@@ -76,6 +80,7 @@
         2440,
         440
       ],
+      "id": "8dfb904d-94a2-4b08-be4b-5fa04591d851",
       "credentials": {
         "httpBasicAuth": {
           "id": "1",
@@ -100,7 +105,8 @@
       "position": [
         2020,
         440
-      ]
+      ],
+      "id": "29377de7-dc72-431c-a932-f99092dd225d"
     },
     {
       "parameters": {
@@ -112,7 +118,8 @@
       "position": [
         2220,
         440
-      ]
+      ],
+      "id": "256ae38c-0178-47af-9fca-f4fd610fd086"
     },
     {
       "parameters": {
@@ -132,7 +139,8 @@
       "position": [
         2620,
         440
-      ]
+      ],
+      "id": "4e8f69f7-5d93-4581-b865-6bacd3825e26"
     },
     {
       "parameters": {
@@ -144,7 +152,8 @@
       "position": [
         2840,
         540
-      ]
+      ],
+      "id": "0a176d7a-d107-4233-8d0e-699206fb4b80"
     },
     {
       "parameters": {
@@ -167,7 +176,8 @@
       "position": [
         3060,
         440
-      ]
+      ],
+      "id": "d30db042-1de6-4322-aa3f-ed8ca36bddee"
     },
     {
       "parameters": {
@@ -182,6 +192,7 @@
         360
       ],
       "notesInFlow": true,
+      "id": "f1c8d683-8b02-4994-b202-ded3a29dacbe",
       "notes": "note 1\nnote 2\nnote 3\nnote 4\nnote 5"
     },
     {
@@ -194,7 +205,8 @@
       "position": [
         3500,
         420
-      ]
+      ],
+      "id": "b0e00c4a-50ea-49ea-96c4-55a49b1b70fb"
     },
     {
       "parameters": {
@@ -208,7 +220,8 @@
         3660,
         420
       ],
-      "webhookId": "9fac7566-5558-483c-98e9-dace48b3eaab"
+      "webhookId": "9fac7566-5558-483c-98e9-dace48b3eaab",
+      "id": "a8fb22e8-3cd4-462f-bdc2-3dbd81906455"
     },
     {
       "parameters": {
@@ -227,7 +240,8 @@
       "position": [
         3820,
         420
-      ]
+      ],
+      "id": "26c9603d-87f0-4f22-b74f-dd24407baf56"
     },
     {
       "parameters": {
@@ -239,7 +253,8 @@
       "position": [
         4600,
         400
-      ]
+      ],
+      "id": "ade2d9ec-1992-412a-9568-923a6b95a047"
     },
     {
       "parameters": {
@@ -252,7 +267,8 @@
       "position": [
         5020,
         300
-      ]
+      ],
+      "id": "dfbcd121-dde7-428d-ad61-f63160097a56"
     },
     {
       "parameters": {},
@@ -262,7 +278,8 @@
       "position": [
         3280,
         560
-      ]
+      ],
+      "id": "53563e18-e556-4b93-8bf2-a4ed7cda07ee"
     },
     {
       "parameters": {
@@ -275,7 +292,8 @@
       "position": [
         4040,
         520
-      ]
+      ],
+      "id": "caaf3afd-b222-4190-862d-2a2645e242ec"
     },
     {
       "parameters": {
@@ -287,7 +305,8 @@
       "position": [
         4240,
         400
-      ]
+      ],
+      "id": "c303ec2a-5c9e-44e4-af38-56cb460b543c"
     },
     {
       "parameters": {
@@ -300,7 +319,8 @@
       "position": [
         4420,
         400
-      ]
+      ],
+      "id": "938427e2-da45-464e-b33c-77f7fdba6c1b"
     },
     {
       "parameters": {
@@ -314,7 +334,8 @@
       "position": [
         2000,
         20
-      ]
+      ],
+      "id": "7e0a0b5e-b73b-44a4-b682-e75bb7fdcafa"
     },
     {
       "parameters": {
@@ -328,7 +349,8 @@
       "position": [
         4980,
         500
-      ]
+      ],
+      "id": "461af196-9f3d-4d1c-96e6-c0150d104a2e"
     },
     {
       "parameters": {
@@ -342,7 +364,8 @@
       "position": [
         4980,
         240
-      ]
+      ],
+      "id": "6c92912e-5dda-45a8-b1c8-618fb5c5d7d3"
     },
     {
       "parameters": {
@@ -356,7 +379,8 @@
       "position": [
         2000,
         360
-      ]
+      ],
+      "id": "9c9f339c-cef7-4fe7-9932-cc2a957f96fc"
     },
     {
       "parameters": {
@@ -370,7 +394,8 @@
       "position": [
         2380,
         360
-      ]
+      ],
+      "id": "a7a01698-6658-4e39-92a6-2b2af0d02f56"
     },
     {
       "parameters": {
@@ -384,7 +409,8 @@
       "position": [
         2180,
         360
-      ]
+      ],
+      "id": "37f87a09-1628-4d2a-9456-7017eaf9c52d"
     },
     {
       "parameters": {
@@ -398,7 +424,8 @@
       "position": [
         3220,
         280
-      ]
+      ],
+      "id": "8250b3f4-9d94-4722-8508-96a46edd5b07"
     },
     {
       "parameters": {
@@ -412,7 +439,8 @@
       "position": [
         4220,
         300
-      ]
+      ],
+      "id": "c533c409-8830-445d-bd61-ad48d7a9d8ed"
     },
     {
       "parameters": {
@@ -426,7 +454,8 @@
       "position": [
         3480,
         320
-      ]
+      ],
+      "id": "0aa54649-cad8-4105-b95f-823eb89d19ef"
     },
     {
       "parameters": {
@@ -439,7 +468,8 @@
       "position": [
         5380,
         300
-      ]
+      ],
+      "id": "4f4ce27a-1fd1-4c7f-b98a-9614c8a2edee"
     },
     {
       "parameters": {
@@ -453,7 +483,8 @@
       "position": [
         5560,
         300
-      ]
+      ],
+      "id": "bdf555e5-f132-4194-9b85-023b6d057974"
     },
     {
       "parameters": {
@@ -467,7 +498,8 @@
       "position": [
         5900,
         520
-      ]
+      ],
+      "id": "3c2a4096-4a30-47fa-b669-e41a617e265c"
     },
     {
       "parameters": {
@@ -480,7 +512,8 @@
       "position": [
         5020,
         520
-      ]
+      ],
+      "id": "905345a8-c810-4bb4-94f5-6e1f1152ae69"
     },
     {
       "parameters": {
@@ -493,7 +526,8 @@
       "position": [
         5380,
         520
-      ]
+      ],
+      "id": "98bd9aa5-3d4f-450a-bceb-872ef039f678"
     },
     {
       "parameters": {
@@ -506,7 +540,8 @@
       "position": [
         5560,
         520
-      ]
+      ],
+      "id": "f4b8ffd5-6329-47d8-8a41-9159cc6ff57e"
     },
     {
       "parameters": {
@@ -519,7 +554,8 @@
       "position": [
         5740,
         520
-      ]
+      ],
+      "id": "d45d58a3-a2aa-4848-944a-7de7115cfc0f"
     },
     {
       "parameters": {
@@ -532,9 +568,11 @@
         6120,
         580
       ],
+      "id": "9658345e-f57a-4687-ba3d-378881ad1f00",
       "continueOnFail": true
     }
   ],
+  "pinData": {},
   "connections": {
     "Is the cosmetic's image static (one frame)?": {
       "main": [
@@ -856,6 +894,9 @@
     "saveManualExecutions": true
   },
   "id": 1,
+  "meta": {
+    "instanceId": "6ce035f4944a3dc0ecf5a80378724f7e6d06baf2990296c61674839ca285de35"
+  },
   "tags": [
     {
       "id": "1",
